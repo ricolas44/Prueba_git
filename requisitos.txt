@@ -1,0 +1,8 @@
+requisitos para frontend
+html
+css
+javascript
+tecnologias frontend
+	react
+	angular
+	bootstrap
