@@ -6,3 +6,4 @@ tecnologias frontend
 	react
 	angular
 	bootstrap
+Seguir practicando
